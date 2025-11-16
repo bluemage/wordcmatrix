@@ -4,7 +4,7 @@ Sudo apt update
 
 sudo apt install git
 
-git clone https://github.com/bluemage/wordmatrix.git
+git clone https://github.com/bluemage/wordcmatrix.git
 
 Sudo apt install gcc g++
 
