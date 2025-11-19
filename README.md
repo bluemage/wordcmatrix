@@ -1,12 +1,16 @@
 Debian based OS
 
-Sudo apt update
+sudo apt update
+
+sudo apt upgrade
 
 sudo apt install git
 
 sudo git clone https://github.com/bluemage/wordcmatrix.git
 
-Sudo apt install gcc g++
+cd wordcmatrix
+
+sudo apt install gcc g++
 
 sudo apt install libncurses5-dev libncursesw5-dev
 
